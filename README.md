@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building my knowledge and learning new things everyday.<br>- 📚 I'm currently learning cross-platform development and backend architectures.<br>- ⚡.</p>
+<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building web apps like dashboards and chat platforms.<br>- 📚 I'm currently learning cross-platform development and backend architectures (like BFF).<br>- ⚡ In my free time, I dive into games at Joker Game Saloon or explore new tech with AI.</p>
 
 ###
 
@@ -43,32 +43,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nadhirrezig&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<h3 align="left">✨ Featured Projects</h3>
-
-###
-
-<p align="left">
-- <a href="https://github.com/Nadhirrezig/ClientDashboard">ClientDashboard</a>: A production-ready dashboard live at <a href="https://nendoc.vercel.app/">nendoc.vercel.app</a>. Built with TypeScript.<br>
-- <a href="https://github.com/Nadhirrezig/Multi-Platform">Multi-Platform</a>: A chat app for web, mobile, and desktop, exploring BFF architecture with TypeScript and AI assistance.
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo...
