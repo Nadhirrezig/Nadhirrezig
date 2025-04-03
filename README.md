@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building web apps like dashboards and chat platforms.<br>- 📚 I'm currently learning cross-platform development and backend architectures (like BFF).<br>- ⚡ In my free time, I dive into games at Joker Game Saloon or explore new tech with AI.</p>
+<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building my knowledge and learning new things everyday.<br>- 📚 I'm currently learning cross-platform development and backend architectures.<br>- ⚡</p>
 
 ###
 
