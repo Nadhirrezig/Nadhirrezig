@@ -1,43 +1,74 @@
-# Hey there! 👋 I'm Nadhir
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-Welcome to my GitHub! I’m a web development enthusiast passionate about learning new things every day. I love building projects with JavaScript and TypeScript, and I’m always exploring ways to create impactful, real-world solutions. When I’m not coding, I’m likely at Joker Game Saloon, diving into my favorite games!
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+</div>
 
-## 🚀 What I’m About
-- 🔧 **Skills**: JavaScript, TypeScript, CSS, using AI for learning new tech
-- 🌱 **Currently Learning**: Cross-platform development, backend architectures (like BFF)
-- 💼 **Working On**: Production-ready dashboards and multi-platform chat apps
-- 🎯 **2025 Goal**: Contribute to open-source projects and launch more live apps
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nadhirrezig.Nadhirrezig&" />
+</div>
 
-## 🔥 Featured Projects
-Here’s what I’ve been building:
+###
 
-- **[ClientDashboard](https://github.com/Nadhirrezig/ClientDashboard)**  
-  A production-ready dashboard for managing clients, deployed live at [nendoc.vercel.app](https://nendoc.vercel.app/).  
-  *Tech*: TypeScript, [add other tech if applicable, e.g., React, Node.js]
+<h1 align="center">Hey there 👋</h1>
 
-- **[Multi-Platform](https://github.com/Nadhirrezig/Multi-Platform)**  
-  A basic chat app that works across web, mobile, and desktop—built to learn BFF architecture with a little help from AI.  
-  *Tech*: TypeScript, [add other tech if applicable, e.g., Express, WebSockets]
+###
 
-Explore more in my [repositories](https://github.com/Nadhirrezig?tab=repositories)!
+<h3 align="left">👨‍💻 About Me</h3>
 
----
+###
 
-## 🌐 Let’s Connect!
-- [YouTube](https://youtube.com/@your-channel)  
-- [Instagram](https://instagram.com/your-handle)  
-- [Twitch](https://twitch.tv/your-handle)  
-- [Discord](https://discord.gg/your-server-or-username)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- Email: [your-email@gmail.com] (Drop me a line if you’d like to collaborate!)
+<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building web apps like dashboards and chat platforms.<br>- 📚 I'm currently learning cross-platform development and backend architectures (like BFF).<br>- ⚡ In my free time, I dive into games at Joker Game Saloon or explore new tech with AI.</p>
 
----
+###
 
-## ⚡ Fun Fact
-I’m a gaming buff—Joker Game Saloon is my go-to spot for unwinding after a coding session!
+<h3 align="left">🛠 Languages and Tools</h3>
 
-Thanks for stopping by—let’s create something awesome together! ✨
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nadhirrezig&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<h3 align="left">✨ Featured Projects</h3>
+
+###
+
+<p align="left">
+- <a href="https://github.com/Nadhirrezig/ClientDashboard">ClientDashboard</a>: A production-ready dashboard live at <a href="https://nendoc.vercel.app/">nendoc.vercel.app</a>. Built with TypeScript.<br>
+- <a href="https://github.com/Nadhirrezig/Multi-Platform">Multi-Platform</a>: A chat app for web, mobile, and desktop, exploring BFF architecture with TypeScript and AI assistance.
+</p>
