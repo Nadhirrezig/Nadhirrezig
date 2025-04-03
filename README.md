@@ -1,49 +1,43 @@
-<h2 align="left">Hi 👋! My name is Nadhir and I'm a passionate to learn new things everyday </h2>
+# Hey there! 👋 I'm Nadhir
 
-###
+Welcome to my GitHub! I’m a web development enthusiast passionate about learning new things every day. I love building projects with JavaScript and TypeScript, and I’m always exploring ways to create impactful, real-world solutions. When I’m not coding, I’m likely at Joker Game Saloon, diving into my favorite games!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 What I’m About
+- 🔧 **Skills**: JavaScript, TypeScript, CSS, using AI for learning new tech
+- 🌱 **Currently Learning**: Cross-platform development, backend architectures (like BFF)
+- 💼 **Working On**: Production-ready dashboards and multi-platform chat apps
+- 🎯 **2025 Goal**: Contribute to open-source projects and launch more live apps
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🔥 Featured Projects
+Here’s what I’ve been building:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- **[ClientDashboard](https://github.com/Nadhirrezig/ClientDashboard)**  
+  A production-ready dashboard for managing clients, deployed live at [nendoc.vercel.app](https://nendoc.vercel.app/).  
+  *Tech*: TypeScript, [add other tech if applicable, e.g., React, Node.js]
 
-###
+- **[Multi-Platform](https://github.com/Nadhirrezig/Multi-Platform)**  
+  A basic chat app that works across web, mobile, and desktop—built to learn BFF architecture with a little help from AI.  
+  *Tech*: TypeScript, [add other tech if applicable, e.g., Express, WebSockets]
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Explore more in my [repositories](https://github.com/Nadhirrezig?tab=repositories)!
 
-###
+---
 
-<br clear="both">
+## 🌐 Let’s Connect!
+- [YouTube](https://youtube.com/@your-channel)  
+- [Instagram](https://instagram.com/your-handle)  
+- [Twitch](https://twitch.tv/your-handle)  
+- [Discord](https://discord.gg/your-server-or-username)  
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- Email: [your-email@gmail.com] (Drop me a line if you’d like to collaborate!)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## ⚡ Fun Fact
+I’m a gaming buff—Joker Game Saloon is my go-to spot for unwinding after a coding session!
+
+Thanks for stopping by—let’s create something awesome together! ✨
