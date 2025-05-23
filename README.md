@@ -28,7 +28,9 @@
 
 ###
 
-<p align="left">I'm Nadhir from Tunisia.<br><br>- 🔭 I’m working on building my knowledge and learning new things everyday.<br>- 📚 I'm currently learning cross-platform development and backend architectures.<br></p>
+<p align="left">Hi,Yes its me , the one You'v been looking for!.<br><br>- 🔭Curretly im busy working on a huge project that will be comming soon..<br>
+-From Choas I Build Clarity!<br>
+- 📫 How to reach me: rzignadhir56@gmail.com.<br></p>
 
 ###
 
