@@ -28,8 +28,8 @@
 
 ###
 
-<p align="left">Hi,Yes its me , the one You'v been looking for!.<br><br>- 🔭Curretly im busy working on a huge project that will be comming soon..<br>
--From Choas I Build Clarity!<br>
+<p align="left">Hi,Yes its me , the one You'v been looking for !<br><br>- 🚀Curretly im busy working on a huge project that will be comming soon..<br>
+- 🔭 From Choas I Build Clarity!<br>
 - 📫 How to reach me: rzignadhir56@gmail.com.<br></p>
 
 ###
