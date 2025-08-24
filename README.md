@@ -25,7 +25,13 @@
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
-
+<p align="left">
+  Here are a few live projects I've built and deployed:<br><br>
+  🔗 <a href="https://blinkstock.vercel.app" target="_blank">blinkstock.vercel.app</a><br>
+  🔗 <a href="https://blinkdocs.vercel.app" target="_blank">blinkdocs.vercel.app</a><br>
+  🔗 <a href="https://hediayedlakhal.vercel.app" target="_blank">hediayedlakhal.vercel.app</a><br><br>
+  ...and more, but they're private — especially client editions and sold projects.
+</p>
 ###
 
 <p align="left">Hi,Yes its me , the one You'v been looking for !<br><br>- 🚀Curretly im busy working on a huge project that will be comming soon..<br>
