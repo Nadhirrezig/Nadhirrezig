@@ -34,8 +34,11 @@
 </p>
 ###
 
-<p align="left">Hi,Yes its me , the one You'v been looking for !<br><br>- 🚀Curretly im busy working on a huge project that will be comming soon..<br>
-- 🔭 From Choas I Build Clarity!<br>
+<p align="left">
+  Hi there 👋 Yes, it’s me — the one you’ve been looking for!  
+  <br><br>
+  🚀 Currently busy building, but stay tuned... the future is coming next year!  
+</p>- 🔭 From Choas I Build Clarity!<br>
 - 📫 How to reach me: rzignadhir56@gmail.com.<br></p>
 
 ###
