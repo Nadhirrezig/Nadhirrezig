@@ -21,23 +21,10 @@
 ###
 
 <h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  Here are a few live projects I've built and deployed:<br><br>
-  🔗 <a href="https://blinkstock.vercel.app" target="_blank">blinkstock.vercel.app</a><br>
-  🔗 <a href="https://blinkdocs.vercel.app" target="_blank">blinkdocs.vercel.app</a><br>
-  🔗 <a href="https://hediayedlakhal.com" target="_blank">hediayedlakhal.com</a><br><br>
-  ...and more, but they're private — especially client editions and sold projects.
-</p>
-###
-
-<p align="left">
-  Hi there 👋 Yes, it’s me — the one you’ve been looking for!  
+Yes, it’s me — the one you’ve been looking for!  
   <br><br>
-  🚀 Currently busy building, but stay tuned... the future is coming next year!  
+  🚀 Currently busy building, but stay tuned... the future is coming Very very soon!  
 </p>- 🔭 From Choas I Build Clarity!<br>
 - 📫 How to reach me: rzignadhir56@gmail.com.<br></p>
 
