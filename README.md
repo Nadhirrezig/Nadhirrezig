@@ -8,7 +8,7 @@
 <p align="left">
 Yes, it’s me — the one you’ve been looking for!  
   <br><br>
-  🚀 Currently busy building, but stay tuned... the future is coming Very very soon!  
+ 
 </p>- 🔭 From Choas I Build Clarity!<br>
 - 📫 How to reach me: rzignadhir56@gmail.com.<br></p>
 
