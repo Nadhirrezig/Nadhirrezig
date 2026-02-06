@@ -5,7 +5,6 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
 <p align="left">
 Yes, it’s me — the one you’ve been looking for!  
   <br><br>
