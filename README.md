@@ -9,7 +9,7 @@
 Yes, it’s me — the one you’ve been looking for!  
   <br><br>
  
-</p>- To be honest, fuck the planet , im here to live my 80 years WITH no limits !<br>
+</p>- To be honest, save the planet ? Naah<br>
 
 
 ###
