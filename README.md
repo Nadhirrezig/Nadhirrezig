@@ -9,9 +9,8 @@
 Yes, it’s me — the one you’ve been looking for!  
   <br><br>
  
-</p>- 🔭 From Choas I Build Clarity!<br>
-- 📫 How to reach me: <br>
-nadhir.rezig@ssi-tn.com</p>
+</p>- To be honest, fuck the planet , im here to live my 80 years WITH no limits !<br>
+
 
 ###
 
