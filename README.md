@@ -1,13 +1,15 @@
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nadhirrezig.Nadhirrezig&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nadhirrezig.Nadhirrezig" alt="Visitor Badge" />
 </div>
 
-###
+<br />
 
-<p align="left">
-Yes, it’s me — the one you’ve been looking for!  
-  <br><br>
- 
-</p>- To be honest, save the planet ? Naah<br>
+<div align="center">
+
+> *"I am the whisper sent into the sky,*  
+> *and the holy silence that makes reply."*
+
+###  Welcome! You've found the right place.
+
+</div>
 
